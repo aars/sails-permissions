@@ -1,6 +1,6 @@
 var permissionPolicies = [
   'passport',
-  'sessionAuth',
+  // 'sessionAuth',
   'ModelPolicy',
   'OwnerPolicy',
   'PermissionPolicy',
